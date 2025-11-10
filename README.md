@@ -14,7 +14,5 @@ It allows secure file transfer and real-time communication between multiple user
 - 🧰 **Graphical User Interface (GUI)** – Simple interface for users to interact easily.
 - 🗂️ **Database Integration** – SQLite database for storing user information securely.
 
----
 
-## 🧩 Project Structure
 
